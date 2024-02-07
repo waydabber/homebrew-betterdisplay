@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Betterdisplaycli < Formula
+class cli < Formula
   desc "BetterDisplay CLI proxy"
   homepage "https://github.com/waydabber/betterdisplaycli"
   url "https://github.com/waydabber/betterdisplaycli.git",
