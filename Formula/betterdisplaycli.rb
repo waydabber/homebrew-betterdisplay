@@ -5,7 +5,7 @@ class Betterdisplaycli < Formula
   desc "BetterDisplay CLI proxy"
   homepage "https://github.com/waydabber/betterdisplaycli"
   url "https://github.com/waydabber/betterdisplaycli.git",
-      tag: "v1.0.0"
+      tag: "v1.0.1"
   head "https://github.com/waydabber/betterdisplaycli.git"
   license "MIT"
 
